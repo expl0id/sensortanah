@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781220493330",
+    "firebase_url": "https://soilsensor-dfc92.firebaseio.com",
+    "project_id": "soilsensor-dfc92",
+    "storage_bucket": "soilsensor-dfc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781220493330:android:d22293614ca2715b2c80cb",
+        "android_client_info": {
+          "package_name": "com.android.sensortanah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781220493330-ft2q7gapvpqlbf7adn5889r7cbrprmu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.sensortanah",
+            "certificate_hash": "3cd7b3559bb79793cc4fd853e8d8d853c40497bd"
+          }
+        },
+        {
+          "client_id": "781220493330-rn31n0h43vpk5mj0g7i4hb8i0vc55nci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0I1tPZNXkhWIPUGvfscs03kdiXkhakAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781220493330-rn31n0h43vpk5mj0g7i4hb8i0vc55nci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
